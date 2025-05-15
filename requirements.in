@@ -1,0 +1,14 @@
+pyserial
+typer
+rich
+ptyprocess
+pydantic
+pandas
+matplotlib
+numpy
+
+pytest
+
+mypy
+pylint
+
