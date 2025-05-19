@@ -24,3 +24,5 @@ A basic command to run and see raw values
 ```bash
 python ./main.py --serial-port /dev/ttyUSB0 --timeout=30 --table RAW
 ```
+
+See it [in action](https://youtu.be/AQNUMpRlyos).
